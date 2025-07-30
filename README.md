@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **utkarshgwanjari@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ulScdHJezfveawll9ap6yOQEJh62SEVS/view?usp=drive_link](https://drive.google.com/file/d/1ulScdHJezfveawll9ap6yOQEJh62SEVS/view?usp=drive_link)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" height="30" width="40" /></a>
