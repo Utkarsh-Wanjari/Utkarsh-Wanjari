@@ -1,4 +1,7 @@
-[![MasterHead]([https://images.app.goo.gl/qLNou9xhfy3dtPuN6](https://www.shutterstock.com/shutterstock/photos/2489189257/display_1500/stock-photo-data-anlytics-ai-and-database-management-technology-it-specilist-working-on-digital-tablet-2489189257.jpg))
+<p align="center">
+  <img src="https://i.pinimg.com/originals/2e/73/f5/2e73f54bfd969a264820b1b9f5253db8.gif" alt="banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Utkarsh Wanjari</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
